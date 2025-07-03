@@ -1,6 +1,6 @@
 import React from 'react'
 
-const Body = () => {
+function Body() {
   return (
     <div>Body</div>
   )
